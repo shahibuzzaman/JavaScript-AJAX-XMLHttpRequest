@@ -1,4 +1,4 @@
-# JavaScript-AJAX-XMLHttpRequest
+# JavaScript-AJAX-XMLHttpRequest-Text
 
 # Demo
 
